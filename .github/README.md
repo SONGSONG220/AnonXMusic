@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+    ──「 goku ダ ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+  <img src="https://telegra.ph/file/b1f01f899bb42e923bd41.jpg">
 </p>
 
 <p align="center">
